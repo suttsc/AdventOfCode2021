@@ -48,4 +48,4 @@ echo '<br/>';
 
 $partTwoOutput = partTwo($input);
 
-echo 'Part one output: ' . $partTwoOutput . '<br/>';
+echo 'Part two output: ' . $partTwoOutput . '<br/>';
